@@ -1,5 +1,7 @@
 ## Hello World, I'm Sakha Hidayah👋
 
+![SakhaHidayah](assets/github-header-image.png)
+
 <!--
 **sakhahidayah/sakhahidayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
