@@ -1,4 +1,4 @@
-## Hello World, I'm Sakha Hidayah👋
+                Hi👋 I'm Sakha👨‍💻
 
 ![SakhaHidayah](<assets/github-header-image%20(1).png>)
 
@@ -17,6 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working as FullStack Developer ...
+🔭 I’m currently working as FullStack Developer
 
-![Castorice](assets/castorice.gif)
+#### I'm currently Learning ~
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+" />
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+#### Connect with me
+
+![https://www.instagram.com/sakhahidayahramadhan_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/sakha-hidayah-2b1b0236a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![1088253086285438996](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+#### My Github Stats
+
+![Sakha Hidayah GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhahidayah&show_icons=true&theme=tokyonight)
