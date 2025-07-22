@@ -32,12 +32,11 @@ Here are some ideas to get you started:
 
 ![Sakha Hidayah GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhahidayah&show_icons=true&theme=tokyonight)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakhahidayah/sakhahidayah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakhahidayah/sakhahidayah/output/pacman-contribution-graph.svg">
- <img src="https://raw.githubusercontent.com/sakhahidayah/sakhahidayah/output/pacman-contribution-graph.svg" />
-
-</picture>
+  <img  src="https://raw.githubusercontent.com/sakhahidayah/sakhahidayah/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
+</picture> -->
 
 ###
 
