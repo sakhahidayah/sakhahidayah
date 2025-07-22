@@ -1,11 +1,9 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # Run every 12 hours
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -18,7 +16,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout main
         uses: actions/checkout@v3
 
       - name: Generate pacman-contribution-graph.svg
@@ -32,16 +30,14 @@ jobs:
           ref: output
           clean: false
 
-     - name: Copy generated file to root
-  run: cp dist/pacman-contribution-graph.svg .
+      - name: Copy pacman graph to root
+        run: cp dist/pacman-contribution-graph.svg .
 
-
-     - name: Commit & Push to output branch
-  uses: EndBug/add-and-commit@v9
-  with:
-    add: "pacman-contribution-graph.svg"
-    message: "Update pacman graph"
-    default_author: github_actions
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Commit & push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "pacman-contribution-graph.svg"
+          message: "Update pacman graph"
+          default_author: github_actions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
