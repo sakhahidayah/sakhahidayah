@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working as FullStack Developer
+Just someone who’s trying to be better every day 🌱
 
 #### I'm currently Learning ~
 
